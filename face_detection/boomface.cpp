@@ -119,7 +119,7 @@ void displayDetections(IplImage * frame, CvSeq * face)
 	
 }
 
-//ieu pitur nambah wajah ini acok
+//ieu pitur nambah wajah iniervand
 void overlayImages(CvPoint point, IplImage * frame)
 {
 		/* define rectangle for ROI */
